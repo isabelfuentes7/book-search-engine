@@ -4,7 +4,7 @@
 ## Demo
 [Live URL]( https://book-search-engine-application.herokuapp.com/)
 
-##Your Task
+## Your Task
 Your assignment this week is emblematic of the fact that most modern websites are driven by two things: data and user demands. This shouldn't come as a surprise, as the ability to personalize user data is the cornerstone of real-world web development today. And as user demands evolve, applications need to be more performant.
 
 This week, you’ll take starter code with a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end.
@@ -19,12 +19,12 @@ Create an Apollo Provider so that requests can communicate with an Apollo Server
 
 Deploy your application to Heroku with a MongoDB database using MongoDB Atlas. Use the Deploy with Heroku and MongoDB Atlas walkthrough for instructions.
 
-##User Story
+## User Story
 AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
-##Acceptance Criteria
+## Acceptance Criteria
 GIVEN a book search engine
 WHEN I load the search engine
 THEN I am presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
